@@ -1,0 +1,881 @@
+
+<!DOCTYPE html>
+<html >
+<head>
+  <!-- Site made with Mobirise Online Website Builder v5.9.13, https://a.mobirise.com -->
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Mobirise v5.9.13, a.mobirise.com">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+  <link rel="shortcut icon" href="https://r.mobirisesite.com/595879/assets/images/photo-1694192708491-881b730b8d2b.jpeg" type="image/x-icon">
+  <meta name="description" content="Découvrez Les délices de FORCE-N, un restaurant qui propose une expérience culinaire inoubliable avec des plats sénégalais et africains exquis.">
+  <title>Les Délices FORCE-N</title>
+  <link rel="stylesheet" href="https://r.mobirisesite.com/595879/assets/web/assets/mobirise-icons2/mobirise2.css?rnd=1722427289684">
+  <link rel="stylesheet" href="https://r.mobirisesite.com/595879/assets/bootstrap/css/bootstrap.min.css?rnd=1722427289684">
+  <link rel="stylesheet" href="https://r.mobirisesite.com/595879/assets/bootstrap/css/bootstrap-grid.min.css?rnd=1722427289684">
+  <link rel="stylesheet" href="https://r.mobirisesite.com/595879/assets/bootstrap/css/bootstrap-reboot.min.css?rnd=1722427289684">
+  <link rel="stylesheet" href="https://r.mobirisesite.com/595879/assets/parallax/jarallax.css?rnd=1722427289684">
+  <link rel="stylesheet" href="https://r.mobirisesite.com/595879/assets/dropdown/css/style.css?rnd=1722427289684">
+  <link rel="stylesheet" href="https://r.mobirisesite.com/595879/assets/socicon/css/styles.css?rnd=1722427289684">
+  <link rel="stylesheet" href="https://r.mobirisesite.com/595879/assets/theme/css/style.css?rnd=1722427289684">
+  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;700&display=swap&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;700&display=swap&display=swap"></noscript>
+  <link rel="stylesheet" href="https://r.mobirisesite.com/595879/assets/css/mbr-additional.css?rnd=1722427289684" type="text/css">
+  
+  
+  
+  
+
+<style>
+.navbar-fixed-top {
+  top: auto;
+}
+#mobiriseBanner.container-banner {
+  height: 8rem;
+  opacity: 1;
+  -webkit-animation: 4s linear animationHeight;
+  -moz-animation: 4s linear animationHeight;
+    -o-animation: 4s linear animationHeight;
+       animation: 4s linear animationHeight;
+       transition: all  0.5s;
+}
+#mobiriseBanner.container-banner.container-banner-closing {
+  pointer-events: none;
+  height: 0;
+  opacity: 0;
+  -webkit-animation: 0.5s linear animationClosing;
+  -moz-animation:  0.5s linear animationClosing;
+    -o-animation:  0.5s linear animationClosing;
+       animation:  0.5s linear animationClosing;
+}
+#mobiriseBanner .banner {
+  min-height: 8rem;
+  position:fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background: #fff;
+  padding: 10px;
+  opacity:1;
+  -webkit-animation: 4s linear animationBanner;
+  -moz-animation: 4s linear animationBanner;
+    -o-animation: 4s linear animationBanner;
+       animation: 4s linear animationBanner;
+  z-index: 1031;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+#mobiriseBanner .banner p {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  animation: none;
+  visibility: visible;
+}
+#mobiriseBanner .buy-license {
+  text-decoration: underline;
+}
+#mobiriseBanner .banner .btn {
+  margin: 0.3rem 0.5rem;
+  animation: none;
+  visibility: visible;
+}
+.navbar.opened {
+    z-index: 1032;
+}
+@-webkit-keyframes animationBanner { 0% { opacity: 0; top: -8rem; } 75% { opacity: 0; top: -8rem; } 100% { opacity: 1; top: 0; } }
+@-moz-keyframes animationBanner { 0% { opacity: 0; top: -8rem; } 75% { opacity: 0; top: -8rem; } 100% { opacity: 1; top: 0; } }
+@-o-keyframes animationBanner { 0% { opacity: 0; top: -8rem; } 75% { opacity: 0; top: -8rem; } 100% { opacity: 1; top: 0; } }
+   @keyframes animationBanner { 0% { opacity: 0; top: -8rem; } 75% { opacity: 0; top: -8rem; } 100% { opacity: 1; top: 0; } }
+@-webkit-keyframes animationHeight { 0% { height: 0; } 75% { height: 0; } 100% { height: 8rem; } }
+@-moz-keyframes animationHeight { 0% { height: 0; } 75% { height: 0; } 100% { height: 8rem; } }
+@-o-keyframes animationHeight { 0% { height: 0; } 75% { height: 0; } 100% { height: 8rem; } }
+   @keyframes animationHeight { 0% { height: 0; } 75% { height: 0; } 100% { height: 8rem; } }
+   
+@-webkit-keyframes animationClosing { 0% { height: 8rem; opacity: 1; } 30% { height: 8rem; opacity: 0.5;} 100% { height: 0; opacity: 0;} }
+@-moz-keyframes animationClosing { 0% { height: 8rem; opacity: 1; } 30% { height: 8rem; opacity: 0.5;} 100% { height: 0; opacity: 0;} }
+@-o-keyframes animationClosing { 0% { height: 8rem; opacity: 1; } 30% { height: 8rem; opacity: 0.5;} 100% { height: 0; opacity: 0;} }
+@keyframes animationClosing { 0% { height: 8rem; opacity: 1; } 30% { height: 8rem; opacity: 0.5;} 100% { height: 0; opacity: 0;} }
+
+@media(max-width: 767px) {
+  #mobiriseBanner.container-banner {
+    height: 12rem;
+  }
+  #mobiriseBanner .banner {
+    min-height: 12rem;
+  }
+  @-webkit-keyframes animationBanner { 0% { opacity: 0; top: -12rem; } 75% { opacity: 0; top: -12rem; } 100% { opacity: 1; top: 0; } }
+  @-moz-keyframes animationBanner { 0% { opacity: 0; top: -12rem; } 75% { opacity: 0; top: -12rem; } 100% { opacity: 1; top: 0; } }
+  @-o-keyframes animationBanner { 0% { opacity: 0; top: -12rem; } 75% { opacity: 0; top: -12rem; } 100% { opacity: 1; top: 0; } }
+    @keyframes animationBanner { 0% { opacity: 0; top: -12rem; } 75% { opacity: 0; top: -12rem; } 100% { opacity: 1; top: 0; } }
+  @-webkit-keyframes animationHeight { 0% { height: 0; } 75% { height: 0; } 100% { height: 12rem; } }
+  @-moz-keyframes animationHeight { 0% { height: 0; } 75% { height: 0; } 100% { height: 12rem; } }
+  @-o-keyframes animationHeight { 0% { height: 0; } 75% { height: 0; } 100% { height: 12rem; } }
+    @keyframes animationHeight { 0% { height: 0; } 75% { height: 0; } 100% { height: 12rem; } }
+
+  @-webkit-keyframes animationClosing { 0% { height: 12rem; opacity: 1; } 30% { height: 12rem; opacity: 0.5;} 100% { height: 0; opacity: 0;} }
+  @-moz-keyframes animationClosing { 0% { height: 12rem; opacity: 1; } 30% { height: 12rem; opacity: 0.5;} 100% { height: 0; opacity: 0;} }
+  @-o-keyframes animationClosing { 0% { height: 12rem; opacity: 1; } 30% { height: 12rem; opacity: 0.5;} 100% { height: 0; opacity: 0;} }
+  @keyframes animationClosing { 0% { height: 12rem; opacity: 1; } 30% { height: 12rem; opacity: 0.5;} 100% { height: 0; opacity: 0;} }
+}
+</style>
+</head>
+<body>
+<div class="container-banner" id="mobiriseBanner">
+  <div class="banner align-center">
+    <button type="button" onclick="document.getElementById('mobiriseBanner').classList.add('container-banner-closing')" class="btn-close" aria-label="Close" style="position: fixed;top: 16px;right: 16px;"></button>
+    <p class="mbr-text mbr-fonts-style display-7">The site was created with Mobirise Free <a href="https://mobirise.com/" class="mbr-black">Website Builder Software</a></p>
+    <div class="mbr-section-btn">
+      <a class="btn btn-sm btn-primary display-4" href="https://mobirise.com/">Create Your Website!</a>
+      <a class="btn btn-sm btn-secondary display-4" href="https://mobirise.com/p/?u=3350910">Remove This Banner</a>
+    </div>
+  </div>
+</div>
+  
+  <section data-bs-version="5.1" class="menu menu2 cid-uk6pawiLVt" once="menu" id="menu-5-uk6pawiLVt">
+	
+
+	<nav class="navbar navbar-dropdown navbar-fixed-top navbar-expand-lg">
+		<div class="container">
+			<div class="navbar-brand">
+				<span class="navbar-logo">
+					<a href="https://mobiri.se">
+						<img src="https://r.mobirisesite.com/595879/assets/images/photo-1694192708491-881b730b8d2b.jpeg" alt="Mobirise Website Builder" style="height: 4.3rem;">
+					</a>
+				</span>
+				<span class="navbar-caption-wrap"><a class="navbar-caption text-black display-4" href="https://mobiri.se">FORCE-N</a></span>
+			</div>
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbarSupportedContent" data-bs-target="#navbarSupportedContent" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+				<div class="hamburger">
+					<span></span>
+					<span></span>
+					<span></span>
+					<span></span>
+				</div>
+			</button>
+			<div class="collapse navbar-collapse" id="navbarSupportedContent">
+				<ul class="navbar-nav nav-dropdown" data-app-modern-menu="true">
+					<li class="nav-item">
+						<a class="nav-link link text-black display-4" href="https://mobiri.se">Accueil</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link link text-black display-4" href="https://mobiri.se" aria-expanded="false">Menu</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link link text-black display-4" href="https://mobiri.se">Offres</a>
+					</li>
+				</ul>
+				
+				<div class="navbar-buttons mbr-section-btn">
+					<a class="btn btn-primary display-4" href="https://mobiri.se">Réservez Maintenant</a>
+				</div>
+			</div>
+		</div>
+	</nav>
+</section>
+
+<section data-bs-version="5.1" class="header18 cid-uk6pawk6Yx mbr-fullscreen" data-bg-video="https://www.youtube.com/embed/4CpMCl_gf5w?autoplay=1&amp;loop=1&amp;playlist=4CpMCl_gf5w&amp;t=20&amp;mute=1&amp;playsinline=1&amp;controls=0&amp;showinfo=0&amp;autohide=1&amp;allowfullscreen=true&amp;mode=transparent" id="hero-15-uk6pawk6Yx">
+  
+
+  <div class="mbr-overlay" style="opacity: 0.5; background-color: rgb(0, 0, 0);"></div>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="content-wrap col-12 col-md-12">
+        <h1 class="mbr-section-title mbr-fonts-style mbr-white mb-4 display-1">
+          <strong>Les Délices</strong>
+        </h1>
+        
+        <p class="mbr-fonts-style mbr-text mbr-white mb-4 display-7">Savourez l'authenticité de la cuisine sénégalaise et africaine!</p>
+        <div class="mbr-section-btn">
+          <a class="btn btn-white-outline display-7" href="https://mobiri.se">Réservez Une Table</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section data-bs-version="5.1" class="image02 cid-uk6pawkmaM mbr-fullscreen mbr-parallax-background" id="image-13-uk6pawkmaM">
+    
+    
+    <div class="container">
+        <div class="row"></div>
+    </div>
+</section>
+
+<section data-bs-version="5.1" class="features03 cid-uk6pawkNO1" id="news-1-uk6pawkNO1">
+  
+  
+  <div class="container-fluid">
+    <div class="row justify-content-center mb-5">
+      <div class="col-12 content-head">
+        <div class="mbr-section-head">
+          <h4 class="mbr-section-title mbr-fonts-style align-center mb-0 display-2">
+            <strong>Nouvelles et Événements</strong>
+          </h4>
+          
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="item features-image col-12 col-md-6 col-lg-3 active">
+        <div class="item-wrapper">
+          <div class="item-img mb-3">
+            <img src="https://r.mobirisesite.com/595879/assets/images/photo-1694192708634-f8636b101f3a.jpeg" alt="Mobirise Website Builder" title="">
+          </div>
+          <div class="item-content align-left">
+            <h5 class="item-title mbr-fonts-style mt-0 mb-2 display-5">
+              <strong>Soirée Spéciale de Dégustation</strong>
+            </h5>
+            <p class="mbr-text mbr-fonts-style mb-3 display-7">31 Juillet 2024</p>
+            <p class="mbr-text mbr-fonts-style mb-3 display-7">Rejoignez-nous pour une soirée inoubliable avec des plats exclusifs! Réservez votre place maintenant!</p>
+            <div class="mbr-section-btn item-footer">
+              <a href="" class="btn item-btn btn-primary display-7">Réservez</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="item features-image col-12 col-md-6 col-lg-3">
+        <div class="item-wrapper">
+          <div class="item-img mb-3">
+            <img src="https://r.mobirisesite.com/595879/assets/images/photo-1694192708309-56712aa0358a.jpeg" alt="Mobirise Website Builder" title="" data-slide-to="1" data-bs-slide-to="1">
+          </div>
+          <div class="item-content align-left">
+            <h5 class="item-title mbr-fonts-style mb-2 mt-0 display-5">
+              <strong>Offre de 20% sur les Desserts</strong>
+            </h5>
+            <p class="mbr-text mbr-fonts-style mb-3 display-7">31 Juillet 2024</p>
+            <p class="mbr-text mbr-fonts-style mb-3 display-7">Ne manquez pas notre offre sucrée! 20% de réduction sur tous les desserts ce week-end!</p>
+            <div class="mbr-section-btn item-footer">
+              <a href="" class="btn item-btn btn-primary display-7">Réservez</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="item features-image col-12 col-md-6 col-lg-3">
+        <div class="item-wrapper">
+          <div class="item-img mb-3">
+            <img src="https://r.mobirisesite.com/595879/assets/images/photo-1675902836469-d243d1580ebd.jpeg" alt="Mobirise Website Builder" title="" data-slide-to="2" data-bs-slide-to="2">
+          </div>
+          <div class="item-content align-left">
+            <h5 class="item-title mbr-fonts-style mb-2 mt-0 display-5">
+              <strong>Concert Live ce Samedi!</strong>
+            </h5>
+            <p class="mbr-text mbr-fonts-style mb-3 display-7">31 Juillet 2024</p>
+            <p class="mbr-text mbr-fonts-style mb-3 display-7">Venez profiter d'une ambiance festive avec de la musique live! Réservez votre table!</p>
+            <div class="mbr-section-btn item-footer">
+              <a href="" class="btn item-btn btn-primary display-7">Réservez</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="item features-image col-12 col-md-6 col-lg-3">
+        <div class="item-wrapper">
+          <div class="item-img mb-3">
+            <img src="https://r.mobirisesite.com/595879/assets/images/photo-1656806325852-6668ef401f4c.jpeg" alt="Mobirise Website Builder" title="" data-slide-to="2" data-bs-slide-to="2">
+          </div>
+          <div class="item-content align-left">
+            <h5 class="item-title mbr-fonts-style mb-2 mt-0 display-5">
+              <strong>Atelier de Cuisine Africaine</strong>
+            </h5>
+            <p class="mbr-text mbr-fonts-style mb-3 display-7">31 Juillet 2024</p>
+            <p class="mbr-text mbr-fonts-style mb-3 display-7">Apprenez à cuisiner vos plats préférés avec nos chefs! Inscrivez-vous dès maintenant!</p>
+            <div class="mbr-section-btn item-footer">
+              <a href="" class="btn item-btn btn-primary display-7">Réservez</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section data-bs-version="5.1" class="list05 cid-uk6pawknrF" id="faq-3-uk6pawknrF">
+    
+    <div class="container">
+        <div class="col-12 mb-5 content-head">
+            <h3 class="mbr-section-title mbr-fonts-style align-center mb-0 display-2">
+                <strong>Questions Fréquemment Posées</strong>
+            </h3>
+            
+        </div>
+        <div class="row justify-content-center ">
+            <div class="col-12 col-lg-8">
+                <div class="item features-without-image col-12 active">
+                    <div class="item-wrapper">
+                        <h5 class="mbr-card-title mbr-fonts-style mt-0 mb-3 display-5">
+                            <strong>Quels types de plats proposez-vous?</strong></h5>
+                        <p class="mbr-text mbr-fonts-style mt-0 mb-3 display-7">Nous servons une variété de plats sénégalais et africains, tous faits maison!</p>
+                    </div>
+                </div>
+                <div class="item features-without-image col-12">
+                    <div class="item-wrapper">
+                        <h5 class="mbr-card-title mbr-fonts-style mt-0 mb-3 display-5">
+                            <strong>Comment puis-je réserver une table?</strong></h5>
+                        <p class="mbr-text mbr-fonts-style mt-0 mb-3 display-7">Utilisez notre bouton 'Réservez Maintenant' pour choisir votre date et heure!</p>
+                    </div>
+                </div>
+                <div class="item features-without-image col-12">
+                    <div class="item-wrapper">
+                        <h5 class="mbr-card-title mbr-fonts-style mt-0 mb-3 display-5">
+                            <strong>Avez-vous des options végétariennes?</strong></h5>
+                        <p class="mbr-text mbr-fonts-style mt-0 mb-3 display-7">Oui, nous avons plusieurs plats végétariens délicieux!</p>
+                    </div>
+                </div>
+                <div class="item features-without-image col-12">
+                  <div class="item-wrapper">
+                      <h5 class="mbr-card-title mbr-fonts-style mt-0 mb-3 display-5">
+                          <strong>Proposez-vous des plats à emporter?</strong></h5>
+                      <p class="mbr-text mbr-fonts-style mt-0 mb-3 display-7">Absolument! Commandez en ligne et récupérez vos plats!</p>
+                  </div>
+              </div>
+              <div class="item features-without-image col-12">
+                <div class="item-wrapper">
+                    <h5 class="mbr-card-title mbr-fonts-style mt-0 mb-3 display-5">
+                        <strong>Y a-t-il un code vestimentaire?</strong></h5>
+                    <p class="mbr-text mbr-fonts-style mt-0 mb-3 display-7">Pas de code vestimentaire strict, venez comme vous êtes!</p>
+                </div>
+            </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section data-bs-version="5.1" class="header18 cid-uk6pawlQiU mbr-fullscreen" data-bg-video="https://www.youtube.com/embed/MxnEnlALSXk?autoplay=1&amp;loop=1&amp;playlist=MxnEnlALSXk&amp;t=20&amp;mute=1&amp;playsinline=1&amp;controls=0&amp;showinfo=0&amp;autohide=1&amp;allowfullscreen=true&amp;mode=transparent" id="video-5-uk6pawlQiU">
+  
+
+  <div class="mbr-overlay" style="opacity: 0.3; background-color: rgb(0, 0, 0);"></div>
+  <div class="container-fluid">
+    <div class="row">
+    </div>
+  </div>
+</section>
+
+<section data-bs-version="5.1" class="gallery4 cid-uk6pawlcxF" id="gallery-12-uk6pawlcxF">
+  
+  
+  <div class="container-fluid gallery-wrapper">
+    <div class="row justify-content-center">
+      <div class="col-12 content-head">
+        
+      </div>
+    </div>
+    <div class="grid-container">
+      <div class="grid-container-1" style="transform: translate3d(-200px, 0px, 0px);">
+        <div class="grid-item">
+          <img src="https://r.mobirisesite.com/595879/assets/images/photo-1694192709022-bae736019ea2.jpeg" alt="Mobirise Website Builder">
+        </div>
+        <div class="grid-item">
+          <img src="https://r.mobirisesite.com/595879/assets/images/photo-1659777755759-984199db9174.jpeg" alt="Mobirise Website Builder">
+        </div>
+        <div class="grid-item">
+          <img src="https://r.mobirisesite.com/595879/assets/images/photo-1645066803695-f0dbe2c33e42.jpeg" alt="Mobirise Website Builder">
+        </div>
+        <div class="grid-item">
+          <img src="https://r.mobirisesite.com/595879/assets/images/photo-1618828599549-688da17cf56c.jpeg" alt="Mobirise Website Builder">
+        </div>
+      </div>
+      <div class="grid-container-2" style="transform: translate3d(-70px, 0px, 0px);">
+        <div class="grid-item">
+          <img src="https://r.mobirisesite.com/595879/assets/images/photo-1630281483897-32ae5a2f7915.jpeg" alt="Mobirise Website Builder">
+        </div>
+        <div class="grid-item">
+          <img src="https://r.mobirisesite.com/595879/assets/images/photo-1666229735060-aa579932a7ef.jpeg" alt="Mobirise Website Builder">
+        </div>
+        <div class="grid-item">
+          <img src="https://r.mobirisesite.com/595879/assets/images/photo-1694192708556-3c2170f14734.jpeg" alt="Mobirise Website Builder">
+        </div>
+        <div class="grid-item">
+          <img src="https://r.mobirisesite.com/595879/assets/images/photo-1625236602193-b4872df9fb71.jpeg" alt="Mobirise Website Builder">
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section data-bs-version="5.1" class="gallery10 cid-uk6pawlxi7" id="features-61-uk6pawlxi7">
+  
+
+
+  <div class="container-fluid">
+
+      <div class="loop-container">
+        <div class="item display-1" data-linewords="Réservez Maintenant! * Menu Délicieux! * Offres Spéciales! * Témoignages Épatants! * Galerie Éblouissante! * Contactez-Nous! *" data-direction="-1" data-speed="0.05">☁️ Best offers ☁️ Free delivery ☁️ Perfect design ☁️ Comfort ☁️ Support 24/7 ☁️ Vibes</div>
+
+        <div class="item display-1" data-linewords="Réservez Maintenant! * Menu Délicieux! * Offres Spéciales! * Témoignages Épatants! * Galerie Éblouissante! * Contactez-Nous! *" data-direction="-1" data-speed="0.05">☁️ Best offers ☁️ Free delivery ☁️ Perfect design ☁️ Comfort ☁️ Support 24/7 ☁️ Vibes</div>
+      </div>
+    
+  </div>
+</section>
+
+<section data-bs-version="5.1" class="article13 cid-uk6pawlrF3" id="call-to-action-3-uk6pawlrF3">
+    
+    
+    
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="card col-md-12 col-lg-10">
+                <div class="card-wrapper">
+                    <div class="card-box align-left">
+                        <h4 class="card-title mbr-fonts-style display-2">
+                            <strong>Ne manquez pas votre table!</strong>
+                        </h4>
+                        
+                        <div class="mbr-section-btn mt-4">
+                        <a class="btn btn-primary display-4" href="https://mobiri.se">Réservez Votre Table!</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section data-bs-version="5.1" class="clients04 cid-uk6pawlr0K" id="partners-1-uk6pawlr0K">
+    
+    
+    <div class="container-fluid">
+        <div class="row justify-content-center mb-5">
+            <div class="col-12 content-head">
+                <div class="mbr-section-head">
+                    <h4 class="mbr-section-title mbr-fonts-style align-center mb-0 display-2">
+                        <strong>Nos Partenaires Gourmands</strong>
+                    </h4>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="item features-image col-12 col-md-6 col-sm-6 col-lg-2 active">
+                <div class="item-wrapper">
+                    <div class="">
+                        <img src="https://r.mobirisesite.com/595879/assets/images/photo-1651853082689-706323a31427.jpeg" alt="Mobirise Website Builder" title="" data-slide-to="1" data-bs-slide-to="1">
+                    </div>
+                    
+                </div>
+            </div>
+            <div class="item features-image col-12 col-md-6 col-sm-6 col-lg-2">
+                <div class="item-wrapper">
+                    <div class="">
+                        <img src="https://r.mobirisesite.com/595879/assets/images/photo-1502828331539-51c709e80300.jpeg" alt="Mobirise Website Builder" title="" data-slide-to="2" data-bs-slide-to="2">
+                    </div>
+                    
+                </div>
+            </div>
+            <div class="item features-image col-12 col-md-6 col-sm-6 col-lg-2">
+                <div class="item-wrapper">
+                    <div class="">
+                        <img src="https://r.mobirisesite.com/595879/assets/images/photo-1554463529-e27854014799.jpeg" alt="Mobirise Website Builder" title="" data-slide-to="3" data-bs-slide-to="3">
+                    </div>
+                    
+                </div>
+            </div>
+            <div class="item features-image col-12 col-md-6 col-sm-6 col-lg-2">
+                <div class="item-wrapper">
+                    <div class="">
+                        <img src="https://r.mobirisesite.com/595879/assets/images/photo-1606136968306-ab2868cc1f21.jpeg" alt="Mobirise Website Builder" title="" data-slide-to="4" data-bs-slide-to="4">
+                    </div>
+                    
+                </div>
+            </div>
+            <div class="item features-image col-12 col-md-6 col-sm-6 col-lg-2">
+                <div class="item-wrapper">
+                    <div class="">
+                        <img src="https://r.mobirisesite.com/595879/assets/images/photo-1681415851723-dca11d0ec9a6.jpeg" alt="Mobirise Website Builder" title="" data-slide-to="5" data-bs-slide-to="5">
+                    </div>
+                    
+                </div>
+            </div>
+            <div class="item features-image col-12 col-md-6 col-sm-6 col-lg-2">
+                <div class="item-wrapper">
+                    <div class="">
+                        <img src="https://r.mobirisesite.com/595879/assets/images/photo-1596622723231-b20320c7346b.jpeg" alt="Mobirise Website Builder" title="" data-slide-to="6" data-bs-slide-to="6">
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section data-bs-version="5.1" class="pricing1 cid-uk6pawmcMu" id="pricing-cards-1-uk6pawmcMu">
+    
+    
+    <div class="container-fluid">
+        <div class="row justify-content-center">
+            <div class="col-12 content-head">
+                <div class="mbr-section-head mb-5">
+                    <h4 class="mbr-section-title mbr-fonts-style align-center mb-0 display-2">
+                        <strong>Nos Offres</strong>
+                    </h4>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="item features-without-image col-12 col-md-6 col-lg-3 item-mb active">
+                <div class="item-wrapper">
+                    <div class="item-head">
+                        <h5 class="item-title mbr-fonts-style mb-0 display-5">
+                            <strong>Menu Découverte</strong>
+                        </h5>
+                        <h6 class="item-subtitle mbr-fonts-style mt-0 mb-0 display-7">
+                            <strong>29.99</strong>/par personne
+                        </h6>
+                    </div>
+                    <div class="item-content">
+                        <p class="mbr-text mbr-fonts-style display-7">Savourez un mélange de plats traditionnels et modernes, un vrai régal!</p>
+                    </div>
+                    <div class="mbr-section-btn item-footer">
+                        <a href="" class="btn item-btn btn-primary display-7">Réservez Maintenant</a>
+                    </div>
+                </div>
+            </div>
+            <div class="item features-without-image col-12 col-md-6 col-lg-3 item-mb">
+                <div class="item-wrapper">
+                    <div class="item-head">
+                        <h5 class="item-title mbr-fonts-style mb-0 display-5">
+                            <strong>Menu Spécial</strong>
+                        </h5>
+                        <h6 class="item-subtitle mbr-fonts-style mt-0 mb-0 display-7">
+                            <strong>39.99</strong>/par personne
+                        </h6>
+                    </div>
+                    <div class="item-content">
+                        <p class="mbr-text mbr-fonts-style display-7">Un festin de saveurs africaines, parfait pour les gourmets!</p>
+                    </div>
+                    <div class="mbr-section-btn item-footer">
+                        <a href="" class="btn item-btn btn-primary display-7">Réservez Maintenant</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item features-without-image col-12 col-md-6 col-lg-3 item-mb">
+                <div class="item-wrapper">
+                    <div class="item-head">
+                        <h5 class="item-title mbr-fonts-style mb-0 display-5">
+                            <strong>Menu Famille</strong>
+                        </h5>
+                        <h6 class="item-subtitle mbr-fonts-style mt-0 mb-0 display-7">
+                            <strong>99.99</strong>/par personne
+                        </h6>
+                    </div>
+                    <div class="item-content">
+                        <p class="mbr-text mbr-fonts-style display-7">Partagez un repas copieux avec vos proches, un moment inoubliable!</p>
+                    </div>
+                    <div class="mbr-section-btn item-footer">
+                        <a href="" class="btn item-btn btn-primary display-7">Réservez Maintenant</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item features-without-image col-12 col-md-6 col-lg-3 item-mb">
+                <div class="item-wrapper">
+                    <div class="item-head">
+                        <h5 class="item-title mbr-fonts-style mb-0 display-5">
+                            <strong>Menu Dégustation</strong>
+                        </h5>
+                        <h6 class="item-subtitle mbr-fonts-style mt-0 mb-0 display-7">
+                            <strong>49.99</strong>/par personne
+                        </h6>
+                    </div>
+                    <div class="item-content">
+                        <p class="mbr-text mbr-fonts-style display-7">Une expérience culinaire unique avec des plats sélectionnés par notre chef!</p>
+                    </div>
+                    <div class="mbr-section-btn item-footer">
+                        <a href="" class="btn item-btn btn-primary display-7">Réservez Maintenant</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section data-bs-version="5.1" class="slider2 mbr-embla cid-uk6pawmoVm" id="testimonials-1-uk6pawmoVm">
+    
+
+    
+    
+
+    <div class="position-relative text-center">
+        
+
+        <div class="embla" data-skip-snaps="true" data-align="center" data-auto-play="true" data-auto-play-interval="5" data-draggable="true">
+            <div class="embla__viewport container-fluid">
+                <div class="embla__container">
+                    
+                    <div class="embla__slide slider-image item" style="margin-left: 10rem; margin-right: 10rem;">
+                        <div class="user">
+                            <div class="user_image">
+                                <div class="item-wrapper position-relative">
+                                    <img src="https://r.mobirisesite.com/595879/assets/images/g251e771771cf3be592b3310c355b-h_lz9r6h63.jpg" alt="Mobirise Website Builder" data-slide-to="1">
+                                </div>
+                            </div>
+                            <div class="user_text mb-4">
+                                <p class="mbr-fonts-style display-5">
+                                    <strong>Les plats sont incroyables, un goût authentique!</strong>
+                                </p>
+                            </div>
+                            <div class="user_name mbr-fonts-style mb-2 display-7">Jean</div>
+                            <div class="user_desk mbr-fonts-style display-7">Gastronome</div>
+                        </div>
+                    </div><div class="embla__slide slider-image item" style="margin-left: 10rem; margin-right: 10rem;">
+                        <div class="user">
+                            <div class="user_image">
+                                <div class="item-wrapper position-relative">
+                                    <img src="https://r.mobirisesite.com/595879/assets/images/photo-1676385901160-31e1b9e1c0c7.jpeg" alt="Mobirise Website Builder" data-slide-to="2">
+                                </div>
+                            </div>
+                            <div class="user_text mb-4">
+                                <p class="mbr-fonts-style display-5">
+                                    <strong>Un vrai délice, je reviendrai encore!</strong>
+                                </p>
+                            </div>
+                            <div class="user_name mbr-fonts-style mb-2 display-7">Marie</div>
+                            <div class="user_desk mbr-fonts-style display-7"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cliente</font></font></div>
+                        </div>
+                    </div><div class="embla__slide slider-image item" style="margin-left: 10rem; margin-right: 10rem;">
+                        <div class="user">
+                            <div class="user_image">
+                                <div class="item-wrapper position-relative">
+                                    <img src="https://r.mobirisesite.com/595879/images/269870483_100461572514710_4960328860334502383_n.jpg" alt="Mobirise Website Builder" data-slide-to="2">
+                                </div>
+                            </div>
+                            <div class="user_text mb-4">
+                                <p class="mbr-fonts-style display-5">
+                                    <strong>Un vrai délice, je reviendrai encore!</strong>
+                                </p>
+                            </div>
+                            <div class="user_name mbr-fonts-style mb-2 display-7">Elodie</div>
+                            <div class="user_desk mbr-fonts-style display-7"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cliente</font></font></div>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+            <button class="embla__button embla__button--prev">
+                <span class="mobi-mbri mobi-mbri-arrow-prev mbr-iconfont" aria-hidden="true"></span>
+                <span class="sr-only visually-hidden visually-hidden">Previous</span>
+            </button>
+            <button class="embla__button embla__button--next">
+                <span class="mobi-mbri mobi-mbri-arrow-next mbr-iconfont" aria-hidden="true"></span>
+                <span class="sr-only visually-hidden visually-hidden">Next</span>
+            </button>
+        </div>
+    </div>
+</section>
+
+<section data-bs-version="5.1" class="features10 cid-uk6pawnNpe" id="metrics-2-uk6pawnNpe">
+  
+
+  
+  
+  <div class="container">
+    
+    <div class="row justify-content-center">
+      <div class="item features-without-image col-12 col-md-6 col-lg-4">
+        <div class="item-wrapper">
+          <div class="card-box align-left">
+            
+            <p class="card-title mbr-fonts-style mb-3 display-1">
+              <strong>150</strong>
+            </p>
+            <p class="card-text mbr-fonts-style mb-3 display-7">Plats Servis</p>
+            
+          </div>
+        </div>
+      </div>
+      <div class="item features-without-image col-12 col-md-6 col-lg-4">
+        <div class="item-wrapper">
+          <div class="card-box align-left">
+            
+            <p class="card-title mbr-fonts-style mb-3 display-1">
+              <strong>500</strong>
+            </p>
+            <p class="card-text mbr-fonts-style mb-3 display-7">Clients Satisfaits</p>
+            
+          </div>
+        </div>
+      </div>
+      <div class="item features-without-image col-12 col-md-6 col-lg-4">
+        <div class="item-wrapper">
+          <div class="card-box align-left">
+            
+            <p class="card-title mbr-fonts-style mb-3 display-1">
+              <strong>20</strong>
+            </p>
+            <p class="card-text mbr-fonts-style mb-3 display-7">Années d'Expérience</p>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section data-bs-version="5.1" class="social05 cid-uk6pawn7Bx" id="follow-us-2-uk6pawn7Bx">
+    
+
+    
+
+    <div class="container">
+        <div class="row">
+            <h3 class="mbr-section-title align-center mb-5 mbr-fonts-style display-2">
+                <strong>Suivez-Nous Sur Les Réseaux</strong>
+            </h3>
+            <div class="col-12">
+                <div class="social-row">
+                    <div class="soc-item">
+                        <a href="https://mobiri.se/" target="_blank">
+                            <span class="mbr-iconfont socicon socicon-facebook"></span>
+                        </a>
+                    </div>
+                    <div class="soc-item">
+                        <a href="https://mobiri.se/" target="_blank">
+                            <span class="mbr-iconfont socicon-twitter socicon"></span>
+                        </a>
+                    </div>
+                    <div class="soc-item">
+                        <a href="https://mobiri.se/" target="_blank">
+                            <span class="mbr-iconfont socicon-instagram socicon"></span>
+                        </a>
+                    </div>
+                    <div class="soc-item">
+                        <a href="https://mobiri.se/" target="_blank">
+                            <span class="mbr-iconfont socicon socicon-linkedin"></span>
+                        </a>
+                    </div>
+                    <div class="soc-item">
+                        <a href="https://mobiri.se/" target="_blank">
+                            <span class="mbr-iconfont socicon socicon-twitch"></span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section data-bs-version="5.1" class="form5 cid-uk6pawnXmL" id="contact-form-3-uk6pawnXmL">
+    
+    
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-12 content-head">
+                <div class="mbr-section-head mb-5">
+                    <h3 class="mbr-section-title mbr-fonts-style align-center mb-0 display-2">
+                        <strong>Contactez-Nous Maintenant</strong>
+                    </h3>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-lg-8 mx-auto mbr-form" data-form-type="formoid">
+                <form action="https://mobirise.eu/" method="POST" class="mbr-form form-with-styler" data-form-title="Form Name"><input type="hidden" name="email" data-form-email="true" value="F3Gjlm5k7mV/WwG4Rofo39VPlEAosHEUKN7LKC7zg/a3NTDaA4FG/Y5h7OZCrwSDj/D1XKLFjfTeWSrbvi6S/64Vu7N5TSk8Gx12GyhN64YAbFqTpZciWDYCC0Q2EzFw">
+                    <div class="row">
+                        <div hidden="hidden" data-form-alert="" class="alert alert-success col-12">Thanks for filling out the form!</div>
+                        <div hidden="hidden" data-form-alert-danger="" class="alert alert-danger col-12">
+                            Oops...! some problem!
+                        </div>
+                    </div>
+                    <div class="dragArea row">
+                        <div class="col-md col-sm-12 form-group mb-3" data-for="name">
+                            <input type="text" name="name" placeholder="Nom" data-form-field="name" class="form-control" value="" id="name-contact-form-3-uk6pawnXmL">
+                        </div>
+                        <div class="col-md col-sm-12 form-group mb-3" data-for="email">
+                            <input type="email" name="email" placeholder="Email" data-form-field="email" class="form-control" value="" id="email-contact-form-3-uk6pawnXmL">
+                        </div>
+                        <div class="col-12 form-group mb-3 mb-3" data-for="url">
+                            <input type="url" name="url" placeholder="Téléphone" data-form-field="url" class="form-control" value="" id="url-contact-form-3-uk6pawnXmL">
+                        </div>
+                        <div class="col-12 form-group mb-3" data-for="textarea">
+                            <textarea name="textarea" placeholder="Message" data-form-field="textarea" class="form-control" id="textarea-contact-form-3-uk6pawnXmL"></textarea>
+                        </div>
+                        <div class="col-lg-12 col-md-12 col-sm-12 align-center mbr-section-btn">
+                            <button type="submit" class="btn btn-primary display-7">Envoyer</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section data-bs-version="5.1" class="contacts4 map1 cid-uk6pawn6u9" id="contacts-3-uk6pawn6u9">
+
+	
+
+    <div class="main_wrapper">
+		<div class="b_wrapper">
+			<div class="container-fluid">
+				<div class="row justify-content-start">
+					<div class="col-md-5 col-lg-4 item-wrapper">
+                        <h5 class="cardTitle mbr-fonts-style mb-2 display-5">
+                            <strong>Nous Contacter</strong>
+                        </h5>
+                        <ul class="list mbr-fonts-style display-7">
+                            <li class="mbr-text item-wrap">
+                            Téléphone:                                
+                            <a href="tel:+221 33 123 4567" class="text-black">+221 33 123 4567</a></li>
+
+                            <li class="mbr-text item-wrap">WhatsApp: 
+                            <a href="tel:+221 33 123 4567" class="text-black">+221 33 123 4567</a></li> 
+
+                            <li class="mbr-text item-wrap">                            
+                            Email:
+                            <a href="mailto:contact@lesdelicesdeforcen.com" class="text-black">contact@lesdelicesdeforcen.com</a>                        
+                            </li>
+
+                            <li class="mbr-text item-wrap">                        
+                            Adresse:
+                             Senegal
+                            </li>
+
+                            <li class="mbr-text item-wrap">
+                            Heures d'Ouverture:
+                            Lun-Dim: 10h - 22h
+                            </li>
+                        </ul>
+					</div>
+				</div>
+			</div>
+		</div>
+        <div class="google-map"><iframe frameborder="0" style="border:0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6045.3003145248895!2d-73.9884657!3d40.7477229!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9ac1f1b85%3A0x7e33d1c0e7af3be4!2zMzUwIDV0aCBBdmUsIE5ldyBZb3JrLCBOWSAxMDExOCwg0KHQqNCQ!5e0!3m2!1sru!2sru!4v1689597362021!5m2!1sen!2sen" allowfullscreen=""></iframe></div>
+	</div>
+</section>
+
+<section data-bs-version="5.1" class="footer4 cid-uk6pawnj1z" once="footers" id="footer-4-uk6pawnj1z">
+
+    
+
+    
+
+    <div class="container">
+        <div class="media-container-row align-center mbr-white">
+            <div class="col-12">
+                <p class="mbr-text mb-0 mbr-fonts-style display-7">© 2024 Les délices de FORCE-N. Tous droits réservés.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+  <script src="https://r.mobirisesite.com/595879/assets/web/assets/jquery/jquery.min.js?rnd=1722427289684"></script>
+  <script src="https://r.mobirisesite.com/595879/assets/bootstrap/js/bootstrap.bundle.min.js?rnd=1722427289684"></script>
+  <script src="https://r.mobirisesite.com/595879/assets/parallax/jarallax.js?rnd=1722427289684"></script>
+  <script src="https://r.mobirisesite.com/595879/assets/smoothscroll/smooth-scroll.js?rnd=1722427289684"></script>
+  <script src="https://r.mobirisesite.com/595879/assets/ytplayer/index.js?rnd=1722427289684"></script>
+  <script src="https://r.mobirisesite.com/595879/assets/dropdown/js/navbar-dropdown.js?rnd=1722427289684"></script>
+  <script src="https://r.mobirisesite.com/595879/assets/vimeoplayer/player.js?rnd=1722427289684"></script>
+  <script src="https://r.mobirisesite.com/595879/assets/scrollgallery/scroll-gallery.js?rnd=1722427289684"></script>
+  <script src="https://r.mobirisesite.com/595879/assets/embla/embla.min.js?rnd=1722427289684"></script>
+  <script src="https://r.mobirisesite.com/595879/assets/embla/script.js?rnd=1722427289684"></script>
+  <script src="https://r.mobirisesite.com/595879/assets/theme/js/script.js?rnd=1722427289684"></script>
+  <script src="https://r.mobirisesite.com/595879/assets/formoid/formoid.min.js?rnd=1722427289684"></script>
+  
+  
+  
+</body>
+</html>
